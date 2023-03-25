@@ -20,7 +20,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name="ML_Project",
 version='0.0.1',
-author='Keerthi Karuakaram',
+author='Keerthi Karunakaram',
 author_email='kvlkarunakaram@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
