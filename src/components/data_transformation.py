@@ -15,7 +15,7 @@ from src.logger import logging
 from src.utils import save_object
 @dataclass
 class DataTransformationConfig:
-    preprocessor_obj_file_path=os.path.join('artificats',"preprocessor.pk1")
+    preprocessor_obj_file_path=os.path.join('artifacts',"preprocessor.pk1")
 
 class DataTransformation:
     def __init__(self):
