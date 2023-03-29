@@ -36,6 +36,8 @@ flask
 
 machine learning models
 
+AWS Elastic BeanStalk
+
 
 
 
